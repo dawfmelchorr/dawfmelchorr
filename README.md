@@ -4,6 +4,7 @@
 
 ## Sobre mí
 🎓 Estoy estudiando DAW en el IES Castelar 
+
 🌱 Actualmente estoy aprendiendo Angular, Ionic, SpringBoot y Laravel
 
 ## Contacto
