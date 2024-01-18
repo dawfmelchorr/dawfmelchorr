@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dawfmelchorr/dawfmelchorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy dawfmelchorr 👋
 
-Here are some ideas to get you started:
+## Sobre mí
+🎓 Estoy estudiando DAW en el IES Castelar
+🌱 Actualmente estoy aprendiendo Angular, Ionic, SpringBoot y Laravel
+🔭 Estoy trabajando en (aquí puedes añadir el proyecto en el que estás trabajando)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📫 Puedes encontrarme en LinkedIn
+- 📧 O puedes enviarme un correo electrónico a dawfmelchorr@iescastelar.com
+
+## Mis estadísticas de GitHub
+!Mis estadísticas de GitHub
