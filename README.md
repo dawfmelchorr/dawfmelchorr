@@ -3,9 +3,18 @@
 <h3 align="center">QA Tester en Funditec para WR Berkley · España 🇪🇸</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/QA%20Tester-Automation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Funditec-WR%20Berkley-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inicio%20en-01%20Sept%202024-orange?style=for-the-badge" />
+  <a href="https://www.atlassian.com/continuous-delivery/software-testing" target="_blank">
+    <img src="https://img.shields.io/badge/QA%20Tester-Automation-blue?style=for-the-badge" alt="QA Automation" />
+  </a>
+  <a href="https://www.funditec.es/" target="_blank">
+    <img src="https://img.shields.io/badge/Funditec-Research%20%26%20Technology-green?style=for-the-badge" alt="Funditec" />
+  </a>
+  <a href="https://www.wrberkley.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WR%20Berkley-Insurance%20Group-darkgreen?style=for-the-badge" alt="WR Berkley" />
+  </a>
+  <a href="https://www.timeanddate.com/date/duration.html" target="_blank">
+    <img src="https://img.shields.io/badge/Inicio%20en-01%20Sept%202024-orange?style=for-the-badge" alt="Inicio QA" />
+  </a>
 </p>
 
 ---
