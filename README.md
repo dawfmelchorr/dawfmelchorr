@@ -12,7 +12,7 @@
 
 ## 💼 Sobre mí
 
-💻 Trabajo como **QA Tester** en **Funditec** para **WR Berkley**, desde **septiembre de 2024**, especializado en la **automatización de pruebas**, **testing funcional** y **aseguramiento de calidad de software**.  
+💻 Trabajo como **QA Tester** en **Funditec** para **WR Berkley**, desde **septiembre de 2024**, especializado en la **automatización de pruebas**, **testing funcional** y **aseguramiento de la calidad del software**.  
 
 🚀 Me apasiona optimizar procesos de desarrollo, garantizar la calidad de los productos digitales y aprender constantemente sobre herramientas y metodologías ágiles.  
 
@@ -23,24 +23,48 @@
 ## 🧠 Tecnologías y herramientas
 
 <p align="center">
+
   <!-- Testing -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Katalon-0068FF?style=for-the-badge&logo=katalon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
-  
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  </a>
+  <a href="https://katalon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Katalon-0068FF?style=for-the-badge&logo=katalon&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </a>
+
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+
   <!-- Others -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+
 </p>
 
 ---
